@@ -1,0 +1,35 @@
+/* 
+sélecteur {
+    propriété : valeur;
+} 
+*/
+
+
+body{
+    background: linear-gradient(45deg, rgb(65, 65, 65), #ccc);
+    color: #fff;
+    font-family:Arial, Helvetica, sans-serif;
+    height:100vh;
+    margin:24px;
+}
+
+a{
+    color:rgb(255, 255, 255);
+}
+
+.wrap{
+    background: rgba(0, 0, 0, 0.3);
+    padding:24px;
+    border-radius: 5px;
+    max-width:400px;
+    margin:auto;
+}
+
+.intro{
+    font-size: 32px;
+}
+
+.nav a{
+    display:block;
+    margin-bottom:12px;
+}
